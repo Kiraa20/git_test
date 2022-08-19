@@ -1,2 +1,2 @@
 Hello world odines
-My first reposiroty in github
+My first repository in github
